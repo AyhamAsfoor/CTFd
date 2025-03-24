@@ -185,6 +185,10 @@ zope-event==4.5.0
     # via gevent
 zope-interface==5.2.0
     # via gevent
+Flask==2.1.1
+psycopg2-binary==2.9.3
+SQLAlchemy==1.4.36
+
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
